@@ -1,0 +1,7 @@
+
+body{margin:0;font-family:Arial;background:#f6f0fb;color:#333}
+header{display:flex;justify-content:space-between;align-items:center;padding:20px 40px;background:#6C4AB6;color:#fff}
+nav a{margin:0 10px}
+.hero{padding:80px 20px;text-align:center}
+.btn{display:inline-block;background:#6C4AB6;color:#fff;padding:12px 20px;text-decoration:none;border-radius:8px}
+footer{text-align:center;padding:30px}
